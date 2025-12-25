@@ -23,7 +23,7 @@ pipeline {
         }
         stage('Complete') {
             steps {
-                echo 'Job Completed! It was triggered for multi branch V2'
+                echo 'Job Completed! It was triggered for multi branch V3'
             }
         }
     }
